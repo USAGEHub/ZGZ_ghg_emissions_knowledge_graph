@@ -6,7 +6,7 @@ PREFIX vcard: <http://www.w3.org/2006/vcard/ns#>
 PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX time: <http://www.w3.org/2006/time#>
-PREFIX usage-o: <http://usage-project.eu/ld/ontology#>
+PREFIX usage-o: <http://w3id.org/def/usage#>
 
 SELECT ?wkt ?district (SUM(?kpiaValue) as ?sumKpiaValue)
  (CONCAT("portland, ", str(?sumKpiaValue/9)) as ?wktColor)
@@ -26,5 +26,5 @@ WHERE{
 #            rdfs:label ?districtName. # Warning: multiple names for the same district
   OPTIONAL{ ?district geo:hasGeometry/geo:asWKT ?wkt}. # ZGZ 29 districts IDEZAR has 25 districts' geometries 
   VALUES (?kpi ?year ?sector) {(usage-o:CH4Scope1Emissions "2021"^^xsd:gYear usage-o:ResidentialBuildings)}
-#  VALUES (?district) {(<http://usage-project.eu/ld/resource/District/ZGZ-id-1>)}
+#  VALUES (?district) {(<http://w3id.org/def/usage/resource/District/ZGZ-id-1>)}
 } GROUP BY ?wkt ?district 

@@ -10,7 +10,6 @@
 @prefix saref: <https://saref.etsi.org/core/> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix unit: <http://qudt.org/vocab/unit/> .
-@prefix usage-g: <http://w3id.org/def/usage/graph/> .
 @prefix usage-o: <http://w3id.org/def/usage#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -214,6 +213,17 @@
         <http://base.uri#_b193>,
         <http://base.uri#_b20s> ;
     rr:subjectMap <http://base.uri#_b190> .
+
+<http://base.uri#GEI> a owl:NamedIndividual,
+        rr:TriplesMap ;
+    rml:logicalSource <http://base.uri#_b1> ;
+    rr:predicateObjectMap <http://base.uri#_b15>,
+        <http://base.uri#_b16>,
+        <http://base.uri#_b18i>,
+        <http://base.uri#_b20s>,
+        <http://base.uri#_b223gei>,
+        <http://base.uri#_b225gei> ;
+    rr:subjectMap <http://base.uri#_b222gei> .
 
 <http://base.uri#HCB> a owl:NamedIndividual,
         rr:TriplesMap ;
@@ -486,8 +496,8 @@ rr:class a owl:ObjectProperty ;
 rr:datatype a owl:ObjectProperty ;
     rdfs:label "datatype" .
 
-rr:graph a owl:ObjectProperty ;
-    rdfs:label "graph" .
+rr:graphMap a owl:ObjectProperty ;
+    rdfs:label "graph map" .
 
 rr:joinCondition a owl:ObjectProperty ;
     rdfs:label "join condition" .
@@ -550,7 +560,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b102> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CH4Scope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b103> a owl:NamedIndividual ;
@@ -567,7 +577,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b106> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/N2OScope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b107> a owl:NamedIndividual ;
@@ -584,12 +594,12 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b11> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CO2Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b110> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NOxScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b111> a owl:NamedIndividual ;
@@ -606,7 +616,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b114> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/COScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b115> a owl:NamedIndividual ;
@@ -623,7 +633,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b118> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/SO2Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b119> a owl:NamedIndividual ;
@@ -644,7 +654,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b122> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/VOCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b123> a owl:NamedIndividual ;
@@ -661,7 +671,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b126> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NMVOCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b127> a owl:NamedIndividual ;
@@ -682,7 +692,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b130> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NH3Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b131> a owl:NamedIndividual ;
@@ -699,7 +709,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b134> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PM2.5Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b135> a owl:NamedIndividual ;
@@ -716,7 +726,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b138> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PM10Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b139> a owl:NamedIndividual ;
@@ -737,7 +747,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b142> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/TSPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b143> a owl:NamedIndividual ;
@@ -754,7 +764,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b146> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/BCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b147> a owl:NamedIndividual ;
@@ -771,7 +781,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b150> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/C6H6Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b151> a owl:NamedIndividual ;
@@ -788,7 +798,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b154> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PbScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b155> a owl:NamedIndividual ;
@@ -805,7 +815,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b158> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CdScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b159> a owl:NamedIndividual ;
@@ -822,7 +832,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b162> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/HgScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b163> a owl:NamedIndividual ;
@@ -839,7 +849,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b166> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/AsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b167> a owl:NamedIndividual ;
@@ -860,7 +870,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b170> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CrScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b171> a owl:NamedIndividual ;
@@ -877,7 +887,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b174> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CuScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b175> a owl:NamedIndividual ;
@@ -894,7 +904,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b178> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NiScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b179> a owl:NamedIndividual ;
@@ -911,7 +921,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b182> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/SeScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b183> a owl:NamedIndividual ;
@@ -928,7 +938,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b186> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/ZnScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b187> a owl:NamedIndividual ;
@@ -945,7 +955,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b190> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PCDDandPCDFScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b191> a owl:NamedIndividual ;
@@ -962,7 +972,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b194> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/BaPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b195> a owl:NamedIndividual ;
@@ -979,7 +989,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b198> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/BbFScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b199> a owl:NamedIndividual ;
@@ -992,7 +1002,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b2> a owl:NamedIndividual ;
     rr:class usage-o:Cell ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/Cell/ZGZ-id-{ID_CELDA}" .
 
 <http://base.uri#_b200> a owl:NamedIndividual ;
@@ -1005,7 +1015,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b202> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/IPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b203> a owl:NamedIndividual ;
@@ -1022,7 +1032,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b206> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PAHScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b207> a owl:NamedIndividual ;
@@ -1039,7 +1049,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b210> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/HCBScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b211> a owl:NamedIndividual ;
@@ -1056,7 +1066,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b214> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PCBsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b215> a owl:NamedIndividual ;
@@ -1073,7 +1083,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b218> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/TotalPOPsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b219> a owl:NamedIndividual ;
@@ -1094,24 +1104,41 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b222> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/TotalHeavyMetalsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
+
+<http://base.uri#_b222gei> a owl:NamedIndividual ;
+    rr:class s4city:KeyPerformanceIndicatorAssessment ;
+    rr:graphMap <http://base.uri#_b2g> ;
+    rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/GHGEmissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b223> a owl:NamedIndividual ;
     rr:objectMap <http://base.uri#_b224> ;
+    rr:predicate saref:hasValue .
+
+<http://base.uri#_b223gei> a owl:NamedIndividual ;
+    rr:objectMap <http://base.uri#_b224gei> ;
     rr:predicate saref:hasValue .
 
 <http://base.uri#_b224> a owl:NamedIndividual ;
     rml:reference "TOTAL_MPESADOS" ;
     rr:datatype xsd:float .
 
+<http://base.uri#_b224gei> a owl:NamedIndividual ;
+    rml:reference "GEI" ;
+    rr:datatype xsd:float .
+
 <http://base.uri#_b225> a owl:NamedIndividual ;
     rr:object usage-o:TotalHeavyMetalsScope1Emissions ;
     rr:predicate s4city:quantifiesKPI .
 
+<http://base.uri#_b225gei> a owl:NamedIndividual ;
+    rr:object usage-o:GHGEmissions ;
+    rr:predicate s4city:quantifiesKPI .
+
 <http://base.uri#_b66> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CH4Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b67> a owl:NamedIndividual ;
@@ -1128,22 +1155,22 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b6d> a owl:NamedIndividual ;
     rr:class s4city:District ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/District/ZGZ-id-{ID_PADRON}" .
 
 <http://base.uri#_b6i> a owl:NamedIndividual ;
     rr:class time:DateTimeInterval ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/Interval/ZGZ-id-{AÑO}" .
 
 <http://base.uri#_b6y> a owl:NamedIndividual ;
     rr:class time:DateTimeDescription ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/Year/ZGZ-id-{AÑO}" .
 
 <http://base.uri#_b70> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/N2OScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b71> a owl:NamedIndividual ;
@@ -1160,7 +1187,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b74> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/HFCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b75> a owl:NamedIndividual ;
@@ -1177,7 +1204,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b78> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PFCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b79> a owl:NamedIndividual ;
@@ -1206,7 +1233,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b82> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/SF6Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b83> a owl:NamedIndividual ;
@@ -1223,7 +1250,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b86> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CO2Scope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b87> a owl:NamedIndividual ;
@@ -1256,7 +1283,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b90> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CH4Scope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b91> a owl:NamedIndividual ;
@@ -1273,7 +1300,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b94> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/N2OScope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b95> a owl:NamedIndividual ;
@@ -1290,7 +1317,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b98> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-IPPU-Gases-fluorados ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CO2Scope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b99> a owl:NamedIndividual ;
@@ -1336,6 +1363,8 @@ usage-o:Cell a owl:NamedIndividual .
 usage-o:CrScope1Emissions a owl:NamedIndividual .
 
 usage-o:CuScope1Emissions a owl:NamedIndividual .
+
+usage-o:GHGEmissions a owl:NamedIndividual .
 
 usage-o:HCBScope1Emissions a owl:NamedIndividual .
 
@@ -1447,7 +1476,8 @@ s4city:quantifiesKPI a owl:NamedIndividual .
     rml:referenceFormulation ql:CSV ;
     rml:source "./data/ZGZ/IPPU_Gases_fluorados/refined/IPPU_2019.csv" .
 
-usage-g:ZGZ-IPPU-Gases-fluorados a owl:NamedIndividual .
+<http://base.uri#_b2g> a owl:NamedIndividual ;
+    rr:template "http://w3id.org/def/usage/graph/ZGZ-IPPU-Gases-fluorados-{AÑO}" .
 
 rr:TriplesMap a owl:Class ;
     rdfs:label "Triples Map" .

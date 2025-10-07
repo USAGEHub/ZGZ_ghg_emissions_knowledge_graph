@@ -10,7 +10,6 @@
 @prefix saref: <https://saref.etsi.org/core/> .
 @prefix time: <http://www.w3.org/2006/time#> .
 @prefix unit: <http://qudt.org/vocab/unit/> .
-@prefix usage-g: <http://w3id.org/def/usage/graph/> .
 @prefix usage-o: <http://w3id.org/def/usage#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -27,6 +26,17 @@
         <http://base.uri#_b18i>,
         <http://base.uri#_b20s> ;
     rr:subjectMap <http://base.uri#_b11> .
+
+<http://base.uri#GEI> a owl:NamedIndividual,
+        rr:TriplesMap ;
+    rml:logicalSource <http://base.uri#_b1> ;
+    rr:predicateObjectMap <http://base.uri#_b15>,
+        <http://base.uri#_b16>,
+        <http://base.uri#_b18i>,
+        <http://base.uri#_b20s>,
+        <http://base.uri#_b223gei>,
+        <http://base.uri#_b225gei> ;
+    rr:subjectMap <http://base.uri#_b222gei> .
 
 rml:logicalSource a owl:ObjectProperty ;
     rdfs:label "logical source" .
@@ -46,8 +56,8 @@ rr:class a owl:ObjectProperty ;
 rr:datatype a owl:ObjectProperty ;
     rdfs:label "datatype" .
 
-rr:graph a owl:ObjectProperty ;
-    rdfs:label "graph" .
+rr:graphMap a owl:ObjectProperty ;
+    rdfs:label "graph map" .
 
 rr:joinCondition a owl:ObjectProperty ;
     rdfs:label "join condition" .
@@ -102,7 +112,7 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b11> a owl:NamedIndividual ;
     rr:class s4city:KeyPerformanceIndicatorAssessment ;
-    rr:graph usage-g:ZGZ-Arbolado ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CO2Scope1Emissions/UrbanWoodland/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
 
 <http://base.uri#_b12> a owl:NamedIndividual ;
@@ -117,21 +127,9 @@ rr:termType a owl:ObjectProperty ;
     rr:object usage-o:CO2Scope1Emissions ;
     rr:predicate s4city:quantifiesKPI .
 
-<http://base.uri#_b15> a owl:NamedIndividual ;
-    rr:object unit:TONNE ;
-    rr:predicate saref:isMeasuredIn .
-
-<http://base.uri#_b16> a owl:NamedIndividual ;
-    rr:objectMap <http://base.uri#_b17> ;
-    rr:predicate s4city:refersToFeature .
-
 <http://base.uri#_b17> a owl:NamedIndividual ;
     rr:joinCondition <http://base.uri#_b5> ;
     rr:parentTriplesMap <http://base.uri#Cell> .
-
-<http://base.uri#_b18i> a owl:NamedIndividual ;
-    rr:objectMap <http://base.uri#_b19i> ;
-    rr:predicate s4city:refersToTime .
 
 <http://base.uri#_b19i> a owl:NamedIndividual ;
     rr:joinCondition <http://base.uri#_b5> ;
@@ -139,30 +137,43 @@ rr:termType a owl:ObjectProperty ;
 
 <http://base.uri#_b2> a owl:NamedIndividual ;
     rr:class usage-o:Cell ;
-    rr:graph usage-g:ZGZ-Arbolado ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/Cell/ZGZ-id-{ID_CELDA}" .
-
-<http://base.uri#_b20s> a owl:NamedIndividual ;
-    rr:objectMap <http://base.uri#_b21s> ;
-    rr:predicate usage-o:refersToSector .
 
 <http://base.uri#_b21s> a owl:NamedIndividual ;
     rml:reference "Sector" ;
     rr:termType rr:IRI .
 
+<http://base.uri#_b222gei> a owl:NamedIndividual ;
+    rr:class s4city:KeyPerformanceIndicatorAssessment ;
+    rr:graphMap <http://base.uri#_b2g> ;
+    rr:template "http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/GHGEmissions/UrbanWoodland/ZGZ-id-{ID_CELDA}-y-{AÑO}" .
+
+<http://base.uri#_b223gei> a owl:NamedIndividual ;
+    rr:objectMap <http://base.uri#_b224gei> ;
+    rr:predicate saref:hasValue .
+
+<http://base.uri#_b224gei> a owl:NamedIndividual ;
+    rml:reference "GEI" ;
+    rr:datatype xsd:float .
+
+<http://base.uri#_b225gei> a owl:NamedIndividual ;
+    rr:object usage-o:GHGEmissions ;
+    rr:predicate s4city:quantifiesKPI .
+
 <http://base.uri#_b6d> a owl:NamedIndividual ;
     rr:class s4city:District ;
-    rr:graph usage-g:ZGZ-Arbolado ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/District/ZGZ-id-{ID_PADRON}" .
 
 <http://base.uri#_b6i> a owl:NamedIndividual ;
     rr:class time:DateTimeInterval ;
-    rr:graph usage-g:ZGZ-Arbolado ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/Interval/ZGZ-id-{AÑO}" .
 
 <http://base.uri#_b6y> a owl:NamedIndividual ;
     rr:class time:DateTimeDescription ;
-    rr:graph usage-g:ZGZ-Arbolado ;
+    rr:graphMap <http://base.uri#_b2g> ;
     rr:template "http://w3id.org/def/usage/resource/Year/ZGZ-id-{AÑO}" .
 
 <http://base.uri#_b7d> a owl:NamedIndividual ;
@@ -205,13 +216,13 @@ usage-o:CO2Scope1Emissions a owl:NamedIndividual .
 
 usage-o:Cell a owl:NamedIndividual .
 
+usage-o:GHGEmissions a owl:NamedIndividual .
+
 usage-o:refersToSector a owl:NamedIndividual .
 
 geo:sfWithin a owl:NamedIndividual .
 
 rdfs:label a owl:NamedIndividual .
-
-xsd:float a owl:NamedIndividual .
 
 xsd:gYear a owl:NamedIndividual .
 
@@ -227,19 +238,37 @@ time:year a owl:NamedIndividual .
 
 rr:IRI a owl:NamedIndividual .
 
-saref:hasValue a owl:NamedIndividual .
-
 saref:isMeasuredIn a owl:NamedIndividual .
 
 s4city:District a owl:NamedIndividual .
 
-s4city:KeyPerformanceIndicatorAssessment a owl:NamedIndividual .
-
-s4city:quantifiesKPI a owl:NamedIndividual .
-
 s4city:refersToFeature a owl:NamedIndividual .
 
 s4city:refersToTime a owl:NamedIndividual .
+
+<http://base.uri#_b15> a owl:NamedIndividual ;
+    rr:object unit:TONNE ;
+    rr:predicate saref:isMeasuredIn .
+
+<http://base.uri#_b16> a owl:NamedIndividual ;
+    rr:objectMap <http://base.uri#_b17> ;
+    rr:predicate s4city:refersToFeature .
+
+<http://base.uri#_b18i> a owl:NamedIndividual ;
+    rr:objectMap <http://base.uri#_b19i> ;
+    rr:predicate s4city:refersToTime .
+
+<http://base.uri#_b20s> a owl:NamedIndividual ;
+    rr:objectMap <http://base.uri#_b21s> ;
+    rr:predicate usage-o:refersToSector .
+
+xsd:float a owl:NamedIndividual .
+
+saref:hasValue a owl:NamedIndividual .
+
+s4city:KeyPerformanceIndicatorAssessment a owl:NamedIndividual .
+
+s4city:quantifiesKPI a owl:NamedIndividual .
 
 <http://base.uri#_b5> a owl:NamedIndividual .
 
@@ -247,7 +276,8 @@ s4city:refersToTime a owl:NamedIndividual .
     rml:referenceFormulation ql:CSV ;
     rml:source "./data/ZGZ/Arbolado/refined/BBDD_Arbolado_2021.csv" .
 
-usage-g:ZGZ-Arbolado a owl:NamedIndividual .
+<http://base.uri#_b2g> a owl:NamedIndividual ;
+    rr:template "http://w3id.org/def/usage/graph/ZGZ-Arbolado-{AÑO}" .
 
 rr:TriplesMap a owl:Class ;
     rdfs:label "Triples Map" .

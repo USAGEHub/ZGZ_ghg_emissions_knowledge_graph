@@ -7,7 +7,8 @@ PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX time: <http://www.w3.org/2006/time#>
 PREFIX usage-o: <http://w3id.org/def/usage#>
-INSERT{
+
+INSERT{ GRAPH <http://w3id.org/def/usage/graph/ZGZ-Agregados-Distrito> {
     ?uri a s4city:KeyPerformanceIndicatorAssessment;
          saref:hasValue ?sumKpiaValue;
          saref:isMeasuredIn ?kpiaValueUnit;
@@ -15,10 +16,11 @@ INSERT{
          s4city:refersToFeature ?district;
          s4city:refersToTime ?interval;
          usage-o:refersToSector ?sector.
+    }
 }
 #SELECT *
-WHERE {
-    SELECT ?uri ?district ?interval ?kpi ?kpiaValueUnit ?sector (SUM(?kpiaValue) as ?sumKpiaValue)
+WHERE { GRAPH ?g {
+    SELECT ?uri ?district ?districtName ?interval ?kpi ?kpiaValueUnit ?sector (SUM(?kpiaValue) as ?sumKpiaValue)
     WHERE{
       ?kpia a s4city:KeyPerformanceIndicatorAssessment;
             saref:hasValue ?kpiaValue;
@@ -30,16 +32,17 @@ WHERE {
             usage-o:refersToSector ?sector.
       ?cell a usage-o:Cell;
             geo:sfWithin ?district.
-      ?district a s4city:District.
-      {
-        SELECT ?district ?districtName WHERE {
-          GRAPH <http://w3id.org/def/usage/graph/ZGZ-Transporte> {
-            ?district a s4city:District;
-                rdfs:label ?districtName. # Warning: multiple names for the same district
-          }
-        }
-      }
-    #   VALUES (?district) {(<http://w3id.org/def/usage/resource/District/ZGZ-id-1>)}
+      ?district a s4city:District;
+                rdfs:label ?districtName.
+#      {
+#        SELECT ?district ?districtName WHERE {
+#          GRAPH <http://w3id.org/def/usage/graph/ZGZ-Transporte> {
+#            ?district a s4city:District;
+#                rdfs:label ?districtName. # Warning: multiple names for the same district
+#          }
+#        }
+#      }
+#    #   VALUES (?district) {(<http://w3id.org/def/usage/resource/District/ZGZ-id-1>)}
       BIND (IRI(CONCAT("http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/",
                 STRAFTER(STR(?kpi),"http://w3id.org/def/usage#"),"/",
                 STRAFTER(STR(?sector),"http://w3id.org/def/usage#"),
@@ -47,5 +50,6 @@ WHERE {
                 STRAFTER(STR(?district),"http://w3id.org/def/usage/resource/District/ZGZ-id-"),"-y-",
 		        STRAFTER(STRAFTER(STRAFTER(STR(?interval),"http://w3id.org/def/usage/resource/Interval/"),"-"),"-")
           			  )) as ?uri)
-    } GROUP BY ?uri ?district ?interval ?kpi ?kpiaValueUnit ?sector 
+    } GROUP BY ?uri ?district ?districtName ?interval ?kpi ?kpiaValueUnit ?sector 
+    } 
 }

@@ -3,7 +3,7 @@ PREFIX saref: <https://saref.etsi.org/core/>
 PREFIX geo: <http://www.opengis.net/ont/geosparql#>
 PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX usage-o: <http://usage-project.eu/ld/ontology#>
+PREFIX usage-o: <http://w3id.org/def/usage#>
 
 SELECT DISTINCT ?cell ?wkt
 WHERE{
@@ -25,5 +25,5 @@ WHERE{
               geo:hasGeometry/geo:asWKT ?wktDistrict.
     BIND (geof:buffer(?wktDistrict,xsd:double(0.0008)) AS ?wkt)
   }
-      VALUES (?district) {(<http://usage-project.eu/ld/resource/District/ZGZ-id-1>)}
+      VALUES (?district) {(<http://w3id.org/def/usage/resource/District/ZGZ-id-1>)}
 } 
