@@ -21,7 +21,7 @@
             graphdb:entity-id-size  "32" ;
             graphdb:imports "" ;
         	graphdb:repository-type "file-repository" ;
-            graphdb:ruleset "owl2-rl-optimized" ;
+            graphdb:ruleset "empty"; # "rdfsplus-optimized"; # "owl2-rl-optimized" ;
             graphdb:storage-folder "storage" ;
 
             graphdb:enable-context-index "false" ;

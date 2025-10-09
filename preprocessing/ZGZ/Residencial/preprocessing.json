@@ -792,7 +792,7 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column Sector at index 20 based on column ID_CELDA using expression grel:\"http://usage-project.eu/ld/ontology#ResidentialBuildings\"",
+    "description": "Create column Sector at index 20 based on column ID_CELDA using expression grel:\"http://w3id.org/def/usage#ResidentialBuildings\"",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
@@ -800,7 +800,7 @@
     "newColumnName": "Sector",
     "columnInsertIndex": 0,
     "baseColumnName": "ID_CELDA",
-    "expression": "grel:\"http://usage-project.eu/ld/ontology#ResidentialBuildings\"",
+    "expression": "grel:\"http://w3id.org/def/usage#ResidentialBuildings\"",
     "onError": "set-to-blank"
   },
   {
@@ -815,5 +815,18 @@
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column GEI at index 1 based on column CO2_ALC1 using expression grel:value+if(isNumeric(cells[\"CH4_ALC1\"].value),25*cells[\"CH4_ALC1\"].value,0)+if(isNumeric(cells[\"N2O_ALC1\"].value),298*cells[\"N2O_ALC1\"].value,0)+if(isNumeric(cells[\"CO2_ALC2\"].value),cells[\"CO2_ALC2\"].value,0)",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "GEI",
+    "columnInsertIndex": 1,
+    "baseColumnName": "CO2_ALC1",
+    "expression": "grel:value+if(isNumeric(cells[\"CH4_ALC1\"].value),25*cells[\"CH4_ALC1\"].value,0)+if(isNumeric(cells[\"N2O_ALC1\"].value),298*cells[\"N2O_ALC1\"].value,0)+if(isNumeric(cells[\"CO2_ALC2\"].value),cells[\"CO2_ALC2\"].value,0)",
+    "onError": "set-to-blank"
   }
 ]

@@ -106,7 +106,7 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column Sector at index 1 based on column ID_CELDA using expression grel:\"http://usage-project.eu/ld/ontology#UrbanWoodland\"",
+    "description": "Create column Sector at index 1 based on column ID_CELDA using expression grel:\"http://w3id.org/def/usage#UrbanWoodland\"",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
@@ -114,7 +114,7 @@
     "newColumnName": "Sector",
     "columnInsertIndex": 1,
     "baseColumnName": "ID_CELDA",
-    "expression": "grel:\"http://usage-project.eu/ld/ontology#UrbanWoodland\"",
+    "expression": "grel:\"http://w3id.org/def/usage#UrbanWoodland\"",
     "onError": "set-to-blank"
   },
   {
@@ -139,6 +139,580 @@
     },
     "columnName": "NOM_DISTRITO",
     "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column GEI at index 1 based on column CO2_ALC1 using expression grel:if(isNotNull(value),if(isNumeric(value),value,0),0)+if(isNumeric(cells[\"CH4_ALC1\"].value),25*cells[\"CH4_ALC1\"].value,0)+if(isNumeric(cells[\"N2O_ALC1\"].value),298*cells[\"N2O_ALC1\"].value,0)+if(isNumeric(cells[\"CO2_ALC2\"].value),cells[\"CO2_ALC2\"].value,0)",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": []
+    },
+    "newColumnName": "GEI",
+    "columnInsertIndex": 1,
+    "baseColumnName": "CO2_ALC1",
+    "expression": "grel:if(isNotNull(value),if(isNumeric(value),value,0),0)+if(isNumeric(cells[\"CH4_ALC1\"].value),25*cells[\"CH4_ALC1\"].value,0)+if(isNumeric(cells[\"N2O_ALC1\"].value),298*cells[\"N2O_ALC1\"].value,0)+if(isNumeric(cells[\"CO2_ALC2\"].value),cells[\"CO2_ALC2\"].value,0)",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:1",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Casco Histórico",
+                "l": "Casco Histórico"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:1",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:2",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Centro",
+                "l": "Centro"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:2",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:3",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Delicias",
+                "l": "Delicias"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:3",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:4",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "La Almozara",
+                "l": "La Almozara"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:4",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:5",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Universidad",
+                "l": "Universidad"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:5",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:6",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Casablanca",
+                "l": "Casablanca"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:6",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:7",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "San José",
+                "l": "San José"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:7",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:8",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Las Fuentes",
+                "l": "Las Fuentes"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:8",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:10",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Miralbueno",
+                "l": "Miralbueno"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:10",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:11",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Oliver - Valdefierro",
+                "l": "Oliver - Valdefierro"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:11",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:12",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Torrero - La Paz",
+                "l": "Torrero - La Paz"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:12",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:15",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "El Rabal",
+                "l": "El Rabal"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:15",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:16",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Juslibol - El Zorongo",
+                "l": "Juslibol - El Zorongo"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:16",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:17",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Montañana",
+                "l": "Montañana"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:17",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:21",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Movera",
+                "l": "Movera"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:21",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:26",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Alfocea",
+                "l": "Alfocea"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:26",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column ID_PADRON using expression grel:29",
+    "engineConfig": {
+      "mode": "row-based",
+      "facets": [
+        {
+          "omitError": false,
+          "expression": "value",
+          "selectBlank": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Sur",
+                "l": "Sur"
+              }
+            }
+          ],
+          "selectError": false,
+          "invert": false,
+          "name": "NOM_DISTRITO",
+          "omitBlank": false,
+          "type": "list",
+          "columnName": "NOM_DISTRITO"
+        }
+      ]
+    },
+    "columnName": "ID_PADRON",
+    "expression": "grel:29",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10

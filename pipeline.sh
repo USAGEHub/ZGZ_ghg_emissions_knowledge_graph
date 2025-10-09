@@ -1,27 +1,30 @@
 #!/bin/bash
 ## extraction
-python extraction/IDEZAR/Distritos/extraction.py
+python3 extraction/IDEZAR/Distritos/extraction.py
 
 ## conceptualisation
 ./ontology/conceptualisation_to_code.sh
 
 ## preprocessing # raw files names should not include whitespaces
 ./preprocessing/IDEZAR/Distritos/preprocessing.sh
+python3 preprocessing/ZGZ/Mallado/preprocessing.py # Shapefile to wkt polygons csv
 ./preprocessing/ZGZ/Residencial/preprocessing.sh
 ./preprocessing/ZGZ/Industrial/preprocessing.sh
 ./preprocessing/ZGZ/IPPU_Gases_fluorados/preprocessing.sh
-./preprocessing/ZGZ/Residuos/preprocessing.sh 
+./preprocessing/ZGZ/Residuos/preprocessing.sh # electricidad, etc. solo en 2023
 ./preprocessing/ZGZ/Arbolado/preprocessing.sh 
 ./preprocessing/ZGZ/Ganaderia/preprocessing.sh 
 ./preprocessing/ZGZ/Transporte/preprocessing.sh
-python3 preprocessing/ZGZ/Transporte/blank_column_cli.py asWKT data/ZGZ/Transporte/refined/BBDD_Transp_Carretera_TPrivado_2021_v001.csv # Removed conflictive polygons
 ./preprocessing/ZGZ/Agricultura/preprocessing.sh
+./preprocessing/ZGZ/Institucional_y_servicios/preprocessing.sh
 ./preprocessing/ZGZ/Flota_municipal/preprocessing.sh
 ./preprocessing/ZGZ/Aviacion/preprocessing.sh
 
 ## mapping and materialisation
 ./mapping/IDEZAR/Distritos/mapping_diagram_to_code.sh  
 ./mapping/IDEZAR/Distritos/materialisation.sh 
+./mapping/ZGZ/Mallado/mapping_diagram_to_code.sh  
+./mapping/ZGZ/Mallado/materialisation.sh 
 ./mapping/ZGZ/Residencial/mapping_diagram_to_code.sh  
 ./mapping/ZGZ/Residencial/materialisation.sh 
 ./mapping/ZGZ/Industrial/mapping_diagram_to_code.sh  
@@ -38,6 +41,8 @@ python3 preprocessing/ZGZ/Transporte/blank_column_cli.py asWKT data/ZGZ/Transpor
 ./mapping/ZGZ/Transporte/materialisation.sh 
 ./mapping/ZGZ/Agricultura/mapping_diagram_to_code.sh
 ./mapping/ZGZ/Agricultura/materialisation.sh
+./mapping/ZGZ/Institucional_y_servicios/mapping_diagram_to_code.sh
+./mapping/ZGZ/Institucional_y_servicios/materialisation.sh
 ./mapping/ZGZ/Flota_municipal/mapping_diagram_to_code.sh  
 ./mapping/ZGZ/Flota_municipal/materialisation.sh
 ./mapping/ZGZ/Aviacion/mapping_diagram_to_code.sh  
@@ -50,6 +55,9 @@ python3 preprocessing/ZGZ/Transporte/blank_column_cli.py asWKT data/ZGZ/Transpor
 ./linking/ZGZ/Residencial/reconciling.sh
 ./linking/ZGZ/Residencial/linking_diagram_to_code.sh
 ./linking/ZGZ/Residencial/links_materialisation.sh
+
+## validation
+# ./validation/ZGZ/Arbolado/shapes_diagram_to_code.sh
 
 ## loading
 ./loading/join.sh

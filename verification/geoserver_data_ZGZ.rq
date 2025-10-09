@@ -1,7 +1,7 @@
 PREFIX saref: <https://saref.etsi.org/core/>
 PREFIX geo: <http://www.opengis.net/ont/geosparql#>
 PREFIX s4city: <https://saref.etsi.org/saref4city/>
-PREFIX usage-o: <http://usage-project.eu/ld/ontology#>
+PREFIX usage-o: <http://w3id.org/def/usage#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX time: <http://www.w3.org/2006/time#>
@@ -44,6 +44,6 @@ select distinct ?district ?districtName ?sector ?intervalYear ?kpi ?kpiLabel ?kp
     		 ?districtGeometry a geo:Geometry; 
 #                         a ?districtGeometryType;
                          geo:asWKT ?districtGeometryWKT}
-    FILTER REGEX (str(?district), "http://usage-project.eu/ld/resource/District/ZGZ-id-", "i")
+    FILTER REGEX (str(?district), "http://w3id.org/def/usage/resource/District/ZGZ-id-", "i")
 
 }

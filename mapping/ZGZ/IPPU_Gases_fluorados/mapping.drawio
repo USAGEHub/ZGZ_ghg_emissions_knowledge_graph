@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="8UD5d60HDsAUgDDDRMJ2" name="Page-1">
-        <mxGraphModel dx="1347" dy="2135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="679" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="&lt;div&gt;&lt;b&gt;@base&lt;/b&gt;: http://base.uri#&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;rr&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: http://www.w3.org/ns/r2rml#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;rml&lt;/b&gt;: http://semweb.mmlab.be/ns/rml#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;ql&lt;/b&gt;: http://semweb.mmlab.be/ns/ql#&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;rdf&lt;/b&gt;: http://www.w3.org/1999/02/22-rdf-syntax-ns#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;rdfs&lt;/b&gt;: http://www.w3.org/2000/01/rdf-schema#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;owl&lt;/b&gt;: http://www.w3.org/2002/07/owl#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;skos&lt;/b&gt;: http://www.w3.org/2004/02/skos/core#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;xml&lt;/b&gt;: http://www.w3.org/XML/1998/namespace&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;xsd&lt;/b&gt;: http://www.w3.org/2001/XMLSchema#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;wgs&lt;/b&gt;: http://www.w3.org/2003/01/geo/wgs84_pos#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;geo&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: http://www.opengis.net/ont/geosparql#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b&gt;saref&lt;/b&gt;: https://saref.etsi.org/core/&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b&gt;s4city&lt;/b&gt;: https://saref.etsi.org/saref4city/&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;unit&lt;/b&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;http://qudt.org/vocab/unit/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); line-height: 19px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;time&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;: http://www.w3.org/2006/time#&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;usage-o&lt;/b&gt;: http://usage-project.eu/ld/ontology#&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;usage-g&lt;/b&gt;: http://usage-project.eu/ld/graph/&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+                <mxCell id="2" value="&lt;div&gt;&lt;b&gt;@base&lt;/b&gt;: http://base.uri#&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;rr&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: http://www.w3.org/ns/r2rml#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;rml&lt;/b&gt;: http://semweb.mmlab.be/ns/rml#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;ql&lt;/b&gt;: http://semweb.mmlab.be/ns/ql#&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;rdf&lt;/b&gt;: http://www.w3.org/1999/02/22-rdf-syntax-ns#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;rdfs&lt;/b&gt;: http://www.w3.org/2000/01/rdf-schema#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;owl&lt;/b&gt;: http://www.w3.org/2002/07/owl#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;skos&lt;/b&gt;: http://www.w3.org/2004/02/skos/core#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;xml&lt;/b&gt;: http://www.w3.org/XML/1998/namespace&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;xsd&lt;/b&gt;: http://www.w3.org/2001/XMLSchema#&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;wgs&lt;/b&gt;: http://www.w3.org/2003/01/geo/wgs84_pos#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;geo&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: http://www.opengis.net/ont/geosparql#&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b&gt;saref&lt;/b&gt;: https://saref.etsi.org/core/&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b&gt;s4city&lt;/b&gt;: https://saref.etsi.org/saref4city/&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;b style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;unit&lt;/b&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;http://qudt.org/vocab/unit/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); line-height: 19px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;time&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;: http://www.w3.org/2006/time#&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;usage-o&lt;/b&gt;: http://w3id.org/def/usage#&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;usage-g&lt;/b&gt;: http://w3id.org/def/usage/graph/&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
                     <mxGeometry x="1247.5" y="-1040" width="410" height="300" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;rr:TriplesMap&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
@@ -76,7 +76,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="28" value="&quot;http://usage-project.eu/ld/resource/Cell/ZGZ-id-{ID_CELDA}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="28" value="&quot;http://w3id.org/def/usage/resource/Cell/ZGZ-id-{ID_CELDA}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="485" y="-910" width="380" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="26" target="25" edge="1">
@@ -85,13 +85,10 @@
                         <mxPoint x="555" y="-814.9999999999998" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="30" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
-                    <mxGeometry x="565" y="-820" width="225" height="30" as="geometry"/>
-                </mxCell>
-                <mxCell id="31" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="26" target="30" edge="1">
+                <mxCell id="31" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="26" target="2718" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="365.0005882352941" y="-805" as="sourcePoint"/>
-                        <mxPoint x="525.53" y="-764.9999999999998" as="targetPoint"/>
+                        <mxPoint x="550" y="-800" as="targetPoint"/>
                         <Array as="points">
                             <mxPoint x="365" y="-805"/>
                         </Array>
@@ -144,7 +141,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="59" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CO2Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="59" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CO2Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="450" y="140" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="57" target="56" edge="1">
@@ -153,10 +150,10 @@
                         <mxPoint x="520" y="235.00000000000023" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="61" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="61" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="530" y="230" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="57" target="61" edge="1">
+                <mxCell id="62" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="57" target="61" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="330.0005882352941" y="245" as="sourcePoint"/>
                         <mxPoint x="490.53" y="285.0000000000002" as="targetPoint"/>
@@ -362,7 +359,7 @@
                 <mxCell id="212" value="&lt;u&gt;&amp;nbsp;b10&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
                     <mxGeometry x="485" y="-640" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="213" value="&quot;http://usage-project.eu/ld/resource/District/ZGZ-id-{ID_PADRON&lt;span style=&quot;background-color: initial;&quot;&gt;}&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
+                <mxCell id="213" value="&quot;http://w3id.org/def/usage/resource/District/ZGZ-id-{ID_PADRON&lt;span style=&quot;background-color: initial;&quot;&gt;}&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
                     <mxGeometry x="1135" y="-590" width="405" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="215" value="rr:template" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2309" target="213" edge="1">
@@ -456,7 +453,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="791" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CH4Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="791" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CH4Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="9140" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="792" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="789" target="788" edge="1">
@@ -465,10 +462,10 @@
                         <mxPoint x="565" y="9235" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="793" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="793" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="9230" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="794" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="789" target="793" edge="1">
+                <mxCell id="794" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="789" target="793" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="9245" as="sourcePoint"/>
                         <mxPoint x="535.53" y="9285" as="targetPoint"/>
@@ -649,7 +646,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="829" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/N2OScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="829" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/N2OScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="9840" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="830" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="827" target="826" edge="1">
@@ -658,10 +655,10 @@
                         <mxPoint x="565" y="9935" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="831" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="831" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="9930" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="832" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="827" target="831" edge="1">
+                <mxCell id="832" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="827" target="831" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="9945" as="sourcePoint"/>
                         <mxPoint x="535.53" y="9985" as="targetPoint"/>
@@ -842,7 +839,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="867" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/HFCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="867" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/HFCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="10540" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="868" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="865" target="864" edge="1">
@@ -851,10 +848,10 @@
                         <mxPoint x="565" y="10635" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="869" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="869" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="10630" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="870" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="865" target="869" edge="1">
+                <mxCell id="870" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="865" target="869" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="10645" as="sourcePoint"/>
                         <mxPoint x="535.53" y="10685" as="targetPoint"/>
@@ -1035,7 +1032,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="905" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/PFCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="905" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PFCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="11240" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="906" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="903" target="902" edge="1">
@@ -1044,10 +1041,10 @@
                         <mxPoint x="565" y="11335" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="907" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="907" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="11330" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="908" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="903" target="907" edge="1">
+                <mxCell id="908" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="903" target="907" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="11345" as="sourcePoint"/>
                         <mxPoint x="535.53" y="11385" as="targetPoint"/>
@@ -1228,7 +1225,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="943" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/SF6Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="943" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/SF6Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="11940" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="944" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="941" target="940" edge="1">
@@ -1237,10 +1234,10 @@
                         <mxPoint x="565" y="12035" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="945" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="945" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="12030" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="946" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="941" target="945" edge="1">
+                <mxCell id="946" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="941" target="945" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="12045" as="sourcePoint"/>
                         <mxPoint x="535.53" y="12085" as="targetPoint"/>
@@ -1421,7 +1418,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="981" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CO2Scope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="981" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CO2Scope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="12640" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="982" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="979" target="978" edge="1">
@@ -1430,10 +1427,10 @@
                         <mxPoint x="565" y="12735" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="983" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="983" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="12730" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="984" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="979" target="983" edge="1">
+                <mxCell id="984" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="979" target="983" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="12745" as="sourcePoint"/>
                         <mxPoint x="535.53" y="12785" as="targetPoint"/>
@@ -1614,7 +1611,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1019" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CH4Scope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1019" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CH4Scope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="13340" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1020" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1017" target="1016" edge="1">
@@ -1623,10 +1620,10 @@
                         <mxPoint x="565" y="13435" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1021" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1021" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="13430" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1022" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1017" target="1021" edge="1">
+                <mxCell id="1022" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1017" target="1021" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="13445" as="sourcePoint"/>
                         <mxPoint x="535.53" y="13485" as="targetPoint"/>
@@ -1807,7 +1804,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1057" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/N2OScope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1057" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/N2OScope2Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="14040" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1058" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1055" target="1054" edge="1">
@@ -1816,10 +1813,10 @@
                         <mxPoint x="565" y="14135" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1059" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1059" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="14130" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1060" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1055" target="1059" edge="1">
+                <mxCell id="1060" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1055" target="1059" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="14145" as="sourcePoint"/>
                         <mxPoint x="535.53" y="14185" as="targetPoint"/>
@@ -2000,7 +1997,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1095" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CO2Scope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1095" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CO2Scope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="14740" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1096" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1093" target="1092" edge="1">
@@ -2009,10 +2006,10 @@
                         <mxPoint x="565" y="14835" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1097" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1097" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="14830" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1098" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1093" target="1097" edge="1">
+                <mxCell id="1098" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1093" target="1097" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="14845" as="sourcePoint"/>
                         <mxPoint x="535.53" y="14885" as="targetPoint"/>
@@ -2193,7 +2190,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1133" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CH4Scope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1133" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CH4Scope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="15440" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1134" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1131" target="1130" edge="1">
@@ -2202,10 +2199,10 @@
                         <mxPoint x="565" y="15535" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1135" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1135" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="15530" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1136" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1131" target="1135" edge="1">
+                <mxCell id="1136" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1131" target="1135" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="15545" as="sourcePoint"/>
                         <mxPoint x="535.53" y="15585" as="targetPoint"/>
@@ -2386,7 +2383,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1171" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/N2OScope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1171" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/N2OScope3Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="16140" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1172" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1169" target="1168" edge="1">
@@ -2395,10 +2392,10 @@
                         <mxPoint x="565" y="16235" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1173" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1173" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="16230" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1174" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1169" target="1173" edge="1">
+                <mxCell id="1174" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1169" target="1173" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="16245" as="sourcePoint"/>
                         <mxPoint x="535.53" y="16285" as="targetPoint"/>
@@ -2579,7 +2576,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1209" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/NOxScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1209" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NOxScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="16840" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1210" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1207" target="1206" edge="1">
@@ -2588,10 +2585,10 @@
                         <mxPoint x="565" y="16935" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1211" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1211" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="16930" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1212" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1207" target="1211" edge="1">
+                <mxCell id="1212" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1207" target="1211" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="16945" as="sourcePoint"/>
                         <mxPoint x="535.53" y="16985" as="targetPoint"/>
@@ -2772,7 +2769,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1247" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/COScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1247" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/COScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="17540" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1248" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1245" target="1244" edge="1">
@@ -2781,10 +2778,10 @@
                         <mxPoint x="565" y="17635" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1249" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1249" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="17630" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1250" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1245" target="1249" edge="1">
+                <mxCell id="1250" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1245" target="1249" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="17645" as="sourcePoint"/>
                         <mxPoint x="535.53" y="17685" as="targetPoint"/>
@@ -2965,7 +2962,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1285" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/SO2Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1285" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/SO2Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="18240" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1286" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1283" target="1282" edge="1">
@@ -2974,10 +2971,10 @@
                         <mxPoint x="565" y="18335" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1287" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1287" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="18330" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1288" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1283" target="1287" edge="1">
+                <mxCell id="1288" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1283" target="1287" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="18345" as="sourcePoint"/>
                         <mxPoint x="535.53" y="18385" as="targetPoint"/>
@@ -3158,7 +3155,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1323" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/VOCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1323" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/VOCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="18940" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1324" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1321" target="1320" edge="1">
@@ -3167,10 +3164,10 @@
                         <mxPoint x="565" y="19035" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1325" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1325" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="19030" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1326" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1321" target="1325" edge="1">
+                <mxCell id="1326" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1321" target="1325" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="19045" as="sourcePoint"/>
                         <mxPoint x="535.53" y="19085" as="targetPoint"/>
@@ -3351,7 +3348,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1361" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/NMVOCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1361" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NMVOCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="19640" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1362" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1359" target="1358" edge="1">
@@ -3360,10 +3357,10 @@
                         <mxPoint x="565" y="19735" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1363" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1363" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="19730" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1364" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1359" target="1363" edge="1">
+                <mxCell id="1364" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1359" target="1363" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="19745" as="sourcePoint"/>
                         <mxPoint x="535.53" y="19785" as="targetPoint"/>
@@ -3544,7 +3541,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1399" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/NH3Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1399" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NH3Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="20340" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1400" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1397" target="1396" edge="1">
@@ -3553,10 +3550,10 @@
                         <mxPoint x="565" y="20435" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1401" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1401" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="20430" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1402" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1397" target="1401" edge="1">
+                <mxCell id="1402" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1397" target="1401" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="20445" as="sourcePoint"/>
                         <mxPoint x="535.53" y="20485" as="targetPoint"/>
@@ -3737,7 +3734,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1437" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/PM2.5Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1437" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PM2.5Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="21040" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1438" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1435" target="1434" edge="1">
@@ -3746,10 +3743,10 @@
                         <mxPoint x="565" y="21135" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1439" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1439" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="21130" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1440" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1435" target="1439" edge="1">
+                <mxCell id="1440" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1435" target="1439" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="21145" as="sourcePoint"/>
                         <mxPoint x="535.53" y="21185" as="targetPoint"/>
@@ -3930,7 +3927,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1475" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/PM10Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1475" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PM10Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="21740" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1476" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1473" target="1472" edge="1">
@@ -3939,10 +3936,10 @@
                         <mxPoint x="565" y="21835" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1477" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1477" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="21830" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1478" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1473" target="1477" edge="1">
+                <mxCell id="1478" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1473" target="1477" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="21845" as="sourcePoint"/>
                         <mxPoint x="535.53" y="21885" as="targetPoint"/>
@@ -4123,7 +4120,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1513" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/TSPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1513" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/TSPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="22440" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1514" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1511" target="1510" edge="1">
@@ -4132,10 +4129,10 @@
                         <mxPoint x="565" y="22535" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1515" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1515" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="22530" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1516" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1511" target="1515" edge="1">
+                <mxCell id="1516" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1511" target="1515" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="22545" as="sourcePoint"/>
                         <mxPoint x="535.53" y="22585" as="targetPoint"/>
@@ -4316,7 +4313,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1551" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/BCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1551" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/BCScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="23140" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1552" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1549" target="1548" edge="1">
@@ -4325,10 +4322,10 @@
                         <mxPoint x="565" y="23235" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1553" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1553" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="23230" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1554" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1549" target="1553" edge="1">
+                <mxCell id="1554" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1549" target="1553" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="23245" as="sourcePoint"/>
                         <mxPoint x="535.53" y="23285" as="targetPoint"/>
@@ -4509,7 +4506,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1589" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/C6H6Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1589" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/C6H6Scope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="23840" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1590" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1587" target="1586" edge="1">
@@ -4518,10 +4515,10 @@
                         <mxPoint x="565" y="23935" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1591" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1591" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="23930" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1592" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1587" target="1591" edge="1">
+                <mxCell id="1592" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1587" target="1591" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="23945" as="sourcePoint"/>
                         <mxPoint x="535.53" y="23985" as="targetPoint"/>
@@ -4702,7 +4699,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1627" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/PbScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1627" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PbScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="24540" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1628" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1625" target="1624" edge="1">
@@ -4711,10 +4708,10 @@
                         <mxPoint x="565" y="24635" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1629" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1629" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="24630" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1630" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1625" target="1629" edge="1">
+                <mxCell id="1630" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1625" target="1629" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="24645" as="sourcePoint"/>
                         <mxPoint x="535.53" y="24685" as="targetPoint"/>
@@ -4895,7 +4892,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1665" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CdScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1665" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CdScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="25240" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1666" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1663" target="1662" edge="1">
@@ -4904,10 +4901,10 @@
                         <mxPoint x="565" y="25335" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1667" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1667" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="25330" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1668" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1663" target="1667" edge="1">
+                <mxCell id="1668" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1663" target="1667" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="25345" as="sourcePoint"/>
                         <mxPoint x="535.53" y="25385" as="targetPoint"/>
@@ -5088,7 +5085,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1703" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/HgScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1703" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/HgScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="25940" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1704" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1701" target="1700" edge="1">
@@ -5097,10 +5094,10 @@
                         <mxPoint x="565" y="26035" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1705" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1705" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="26030" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1706" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1701" target="1705" edge="1">
+                <mxCell id="1706" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1701" target="1705" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="26045" as="sourcePoint"/>
                         <mxPoint x="535.53" y="26085" as="targetPoint"/>
@@ -5281,7 +5278,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1741" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/AsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1741" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/AsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="26640" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1742" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1739" target="1738" edge="1">
@@ -5290,10 +5287,10 @@
                         <mxPoint x="565" y="26735" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1743" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1743" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="26730" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1744" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1739" target="1743" edge="1">
+                <mxCell id="1744" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1739" target="1743" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="26745" as="sourcePoint"/>
                         <mxPoint x="535.53" y="26785" as="targetPoint"/>
@@ -5474,7 +5471,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1779" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CrScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1779" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CrScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="27340" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1780" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1777" target="1776" edge="1">
@@ -5483,10 +5480,10 @@
                         <mxPoint x="565" y="27435" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1781" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1781" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="27430" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1782" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1777" target="1781" edge="1">
+                <mxCell id="1782" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1777" target="1781" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="27445" as="sourcePoint"/>
                         <mxPoint x="535.53" y="27485" as="targetPoint"/>
@@ -5667,7 +5664,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1817" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/CuScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1817" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/CuScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="28040" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1818" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1815" target="1814" edge="1">
@@ -5676,10 +5673,10 @@
                         <mxPoint x="565" y="28135" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1819" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1819" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="28130" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1820" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1815" target="1819" edge="1">
+                <mxCell id="1820" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1815" target="1819" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="28145" as="sourcePoint"/>
                         <mxPoint x="535.53" y="28185" as="targetPoint"/>
@@ -5860,7 +5857,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1855" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/NiScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1855" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/NiScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="28740" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1856" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1853" target="1852" edge="1">
@@ -5869,10 +5866,10 @@
                         <mxPoint x="565" y="28835" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1857" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1857" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="28830" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1858" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1853" target="1857" edge="1">
+                <mxCell id="1858" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1853" target="1857" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="28845" as="sourcePoint"/>
                         <mxPoint x="535.53" y="28885" as="targetPoint"/>
@@ -6053,7 +6050,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1893" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/SeScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1893" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/SeScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="29440" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1894" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1891" target="1890" edge="1">
@@ -6062,10 +6059,10 @@
                         <mxPoint x="565" y="29535" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1895" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1895" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="29530" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1896" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1891" target="1895" edge="1">
+                <mxCell id="1896" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1891" target="1895" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="29545" as="sourcePoint"/>
                         <mxPoint x="535.53" y="29585" as="targetPoint"/>
@@ -6246,7 +6243,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1931" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/ZnScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1931" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/ZnScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="30140" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1932" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1929" target="1928" edge="1">
@@ -6255,10 +6252,10 @@
                         <mxPoint x="565" y="30235" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1933" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1933" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="30230" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1934" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1929" target="1933" edge="1">
+                <mxCell id="1934" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1929" target="1933" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="30245" as="sourcePoint"/>
                         <mxPoint x="535.53" y="30285" as="targetPoint"/>
@@ -6439,7 +6436,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1969" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/PCDDandPCDFScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="1969" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PCDDandPCDFScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="30840" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="1970" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="1967" target="1966" edge="1">
@@ -6448,10 +6445,10 @@
                         <mxPoint x="565" y="30935" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="1971" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="1971" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="30930" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="1972" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1967" target="1971" edge="1">
+                <mxCell id="1972" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="1967" target="1971" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="30945" as="sourcePoint"/>
                         <mxPoint x="535.53" y="30985" as="targetPoint"/>
@@ -6632,7 +6629,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2007" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/BaPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2007" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/BaPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="31540" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2008" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2005" target="2004" edge="1">
@@ -6641,10 +6638,10 @@
                         <mxPoint x="565" y="31635" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2009" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2009" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="31630" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2010" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2005" target="2009" edge="1">
+                <mxCell id="2010" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2005" target="2009" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="31645" as="sourcePoint"/>
                         <mxPoint x="535.53" y="31685" as="targetPoint"/>
@@ -6825,7 +6822,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2045" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/BbFScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2045" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/BbFScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="32240" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2046" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2043" target="2042" edge="1">
@@ -6834,10 +6831,10 @@
                         <mxPoint x="565" y="32335" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2047" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2047" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="32330" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2048" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2043" target="2047" edge="1">
+                <mxCell id="2048" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2043" target="2047" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="32345" as="sourcePoint"/>
                         <mxPoint x="535.53" y="32385" as="targetPoint"/>
@@ -7018,7 +7015,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2083" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/IPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2083" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/IPScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="32940" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2084" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2081" target="2080" edge="1">
@@ -7027,10 +7024,10 @@
                         <mxPoint x="565" y="33035" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2085" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2085" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="33030" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2086" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2081" target="2085" edge="1">
+                <mxCell id="2086" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2081" target="2085" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="33045" as="sourcePoint"/>
                         <mxPoint x="535.53" y="33085" as="targetPoint"/>
@@ -7211,7 +7208,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2121" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/PAHScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2121" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PAHScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="33640" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2122" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2119" target="2118" edge="1">
@@ -7220,10 +7217,10 @@
                         <mxPoint x="565" y="33735" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2123" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2123" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="33730" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2124" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2119" target="2123" edge="1">
+                <mxCell id="2124" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2119" target="2123" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="33745" as="sourcePoint"/>
                         <mxPoint x="535.53" y="33785" as="targetPoint"/>
@@ -7404,7 +7401,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2159" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/HCBScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2159" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/HCBScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="34340" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2160" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2157" target="2156" edge="1">
@@ -7413,10 +7410,10 @@
                         <mxPoint x="565" y="34435" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2161" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2161" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="34430" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2162" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2157" target="2161" edge="1">
+                <mxCell id="2162" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2157" target="2161" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="34445" as="sourcePoint"/>
                         <mxPoint x="535.53" y="34485" as="targetPoint"/>
@@ -7597,7 +7594,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2197" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/PCBsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2197" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/PCBsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="35040" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2198" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2195" target="2194" edge="1">
@@ -7606,10 +7603,10 @@
                         <mxPoint x="565" y="35135" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2199" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2199" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="35130" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2200" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2195" target="2199" edge="1">
+                <mxCell id="2200" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2195" target="2199" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="35145" as="sourcePoint"/>
                         <mxPoint x="535.53" y="35185" as="targetPoint"/>
@@ -7790,7 +7787,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2235" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/TotalPOPsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2235" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/TotalPOPsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="35740" width="670" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2236" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2233" target="2232" edge="1">
@@ -7799,10 +7796,10 @@
                         <mxPoint x="565" y="35835" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2237" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2237" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="35830" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2238" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2233" target="2237" edge="1">
+                <mxCell id="2238" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2233" target="2237" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="35845" as="sourcePoint"/>
                         <mxPoint x="535.53" y="35885" as="targetPoint"/>
@@ -7983,7 +7980,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2273" value="&quot;http://usage-project.eu/ld/resource/KeyPerformanceIndicatorAssessment/TotalHeavyMetalsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                <mxCell id="2273" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/TotalHeavyMetalsScope1Emissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
                     <mxGeometry x="495" y="36440" width="745" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2274" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="2271" target="2270" edge="1">
@@ -7992,10 +7989,10 @@
                         <mxPoint x="565" y="36535" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2275" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2275" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="575" y="36530" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2276" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2271" target="2275" edge="1">
+                <mxCell id="2276" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2271" target="2275" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="375.0005882352941" y="36545" as="sourcePoint"/>
                         <mxPoint x="535.53" y="36585" as="targetPoint"/>
@@ -8172,10 +8169,10 @@
                         <mxPoint x="1226" y="-494.9999999999998" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2311" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2311" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="1236" y="-500" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2312" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2309" target="2311" edge="1">
+                <mxCell id="2312" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2309" target="2311" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1036.0005882352941" y="-485" as="sourcePoint"/>
                         <mxPoint x="1196.53" y="-444.9999999999998" as="targetPoint"/>
@@ -8378,7 +8375,7 @@
                         <mxPoint x="85" y="345" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2361" value="&quot;http://usage-project.eu/ld/resource/Interval/ZGZ-id-{AÑO&lt;span style=&quot;background-color: initial;&quot;&gt;}&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
+                <mxCell id="2361" value="&quot;http://w3id.org/def/usage/resource/Interval/ZGZ-id-{AÑO&lt;span style=&quot;background-color: initial;&quot;&gt;}&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
                     <mxGeometry x="1064" y="920" width="405" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2362" value="rr:template" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2371" target="2361" edge="1">
@@ -8431,10 +8428,10 @@
                         <mxPoint x="1155" y="1015.0000000000002" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2373" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2373" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="1165" y="1010" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2374" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2371" target="2373" edge="1">
+                <mxCell id="2374" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2371" target="2373" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="965.0005882352941" y="1025" as="sourcePoint"/>
                         <mxPoint x="1125.53" y="1065.0000000000002" as="targetPoint"/>
@@ -8483,7 +8480,7 @@
                         <mxPoint x="80" y="64" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2387" value="&quot;http://usage-project.eu/ld/resource/Year/ZGZ-id-{AÑO&lt;span style=&quot;background-color: initial;&quot;&gt;}&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
+                <mxCell id="2387" value="&quot;http://w3id.org/def/usage/resource/Year/ZGZ-id-{AÑO&lt;span style=&quot;background-color: initial;&quot;&gt;}&quot;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" parent="1" vertex="1">
                     <mxGeometry x="1699" y="1170" width="405" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="2388" value="rr:template" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2397" target="2387" edge="1">
@@ -8536,10 +8533,10 @@
                         <mxPoint x="1790" y="1265.0000000000002" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2399" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-g:ZGZ-IPPU-Gases-fluorados&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                <mxCell id="2399" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="1800" y="1260" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="2400" value="rr:graph" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2397" target="2399" edge="1">
+                <mxCell id="2400" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="2397" target="2399" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="1600.0005882352941" y="1275" as="sourcePoint"/>
                         <mxPoint x="1760.53" y="1315.0000000000002" as="targetPoint"/>
@@ -9741,6 +9738,239 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="2717" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:predicateObjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="2716" vertex="1" connectable="0">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint x="80" y="248" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2718" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" parent="1" vertex="1">
+                    <mxGeometry x="565" y="-820" width="75" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2719" value="&quot;http://w3id.org/def/usage/graph/ZGZ-IPPU-Gases-fluorados-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="761.56" y="-820" width="318.44" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2720" value="rr:template" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2718" target="2719" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="790" y="-790" as="sourcePoint"/>
+                        <mxPoint x="1000" y="-775.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2721" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;rr:TriplesMap&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" vertex="1" parent="1">
+                    <mxGeometry x="70" y="37110" width="145" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2722" value="&lt;u&gt;&amp;lt;#GEI&amp;gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" vertex="1" parent="1">
+                    <mxGeometry x="70" y="37140" width="145" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2723" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endSize=8;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="1" source="2722" target="2725">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="213.00000000000045" y="37275" as="sourcePoint"/>
+                        <mxPoint x="340" y="37205" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2724" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rml:logicalSource&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2723">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2725" value="_b1" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="335" y="37140" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2726" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2722" target="2729">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="175" y="37270" as="sourcePoint"/>
+                        <mxPoint x="305" y="37240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2727" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:subjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2726">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint x="45" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2728" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;s4city:KeyPerformanceIndicatorAssessment&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="565" y="37220" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2729" value="_b222gei" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="335" y="37220" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2730" value="rr:template" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2729" target="2731">
+                    <mxGeometry x="0.3115" relative="1" as="geometry">
+                        <mxPoint x="435" y="37234.5" as="sourcePoint"/>
+                        <mxPoint x="575" y="37234.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="365" y="37195"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2731" value="&quot;http://w3id.org/def/usage/resource/KeyPerformanceIndicatorAssessment/GHGEmissions/IPPU/ZGZ-id-{ID_CELDA}-y-{AÑO}&quot;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;" vertex="1" parent="1">
+                    <mxGeometry x="485" y="37180" width="745" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2732" value="rr:class" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="2729" target="2728">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="395" y="37275" as="sourcePoint"/>
+                        <mxPoint x="555" y="37275" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2733" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b2g&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="565" y="37270" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2734" value="rr:graphMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2729" target="2733">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="365.0005882352941" y="37285" as="sourcePoint"/>
+                        <mxPoint x="525.53" y="37325" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="365" y="37285"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2735" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&quot;GEI&quot;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];" vertex="1" parent="1">
+                    <mxGeometry x="675" y="37380" width="135" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2736" value="_b223gei" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="335" y="37370" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2737" value="rr:predicate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2736" target="2738">
+                    <mxGeometry x="0.3115" relative="1" as="geometry">
+                        <mxPoint x="435" y="37384.5" as="sourcePoint"/>
+                        <mxPoint x="575" y="37384.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="365" y="37345"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2738" value="saref:hasValue" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="485" y="37330" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2739" value="rml:reference" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.4;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2740" target="2735">
+                    <mxGeometry x="0.0755" relative="1" as="geometry">
+                        <mxPoint x="584.9952941176471" y="37384.705882352944" as="sourcePoint"/>
+                        <mxPoint x="744.76" y="37425" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2740" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;_b224gei&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="485" y="37420" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2741" value="rr:objectMap" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2736" target="2740">
+                    <mxGeometry x="0.2289" relative="1" as="geometry">
+                        <mxPoint x="365.0005882352941" y="37435" as="sourcePoint"/>
+                        <mxPoint x="525.53" y="37475" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="365" y="37435"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2742" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2722" target="2736">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="175" y="37180" as="sourcePoint"/>
+                        <mxPoint x="345" y="37285" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2743" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:predicateObjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2742">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint x="90" y="47" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2744" value="rr:datatype" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2740" target="2745">
+                    <mxGeometry x="0.0755" relative="1" as="geometry">
+                        <mxPoint x="545" y="37460" as="sourcePoint"/>
+                        <mxPoint x="780.76" y="37465" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2745" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;xsd:float&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="655" y="37420" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2746" value="_b225gei" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="335" y="37520" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2747" value="rr:predicate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2746" target="2748">
+                    <mxGeometry x="0.3115" relative="1" as="geometry">
+                        <mxPoint x="435" y="37534.5" as="sourcePoint"/>
+                        <mxPoint x="575" y="37534.5" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="365" y="37495"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2748" value="s4city:quantifiesKPI" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="485" y="37480" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2749" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;usage-o:GHGEmissions&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="485" y="37520" width="255" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2750" value="rr:object" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2746" target="2749">
+                    <mxGeometry x="0.2289" relative="1" as="geometry">
+                        <mxPoint x="365.0005882352941" y="37585" as="sourcePoint"/>
+                        <mxPoint x="525.53" y="37625" as="targetPoint"/>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2751" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2722" target="2746">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="175" y="37180" as="sourcePoint"/>
+                        <mxPoint x="345" y="37425" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2752" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:predicateObjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2751">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint x="80" y="132" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2753" value="_b15" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="332.5" y="37590" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2754" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2722" target="2753">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="175" y="37180" as="sourcePoint"/>
+                        <mxPoint x="345" y="37575" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2755" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:predicateObjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2754">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint x="80" y="172" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2756" value="_b16" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="332.5" y="37650" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2757" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2722" target="2756">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="175" y="37180" as="sourcePoint"/>
+                        <mxPoint x="345" y="37665" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2758" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:predicateObjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2757">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint x="80" y="206" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2759" value="_b18i" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="332.5" y="37700" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2760" value="_b20s" style="rounded=0;whiteSpace=wrap;html=1;snapToPoint=1;points=[[0.1,0],[0.2,0],[0.3,0],[0.4,0],[0.5,0],[0.6,0],[0.7,0],[0.8,0],[0.9,0],[0,0.1],[0,0.3],[0,0.5],[0,0.7],[0,0.9],[0.1,1],[0.2,1],[0.3,1],[0.4,1],[0.5,1],[0.6,1],[0.7,1],[0.8,1],[0.9,1],[1,0.1],[1,0.3],[1,0.5],[1,0.7],[1,0.9]];fontStyle=4" vertex="1" parent="1">
+                    <mxGeometry x="332.5" y="37750" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2761" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2722" target="2759">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="130" y="37170" as="sourcePoint"/>
+                        <mxPoint x="228.76999999999998" y="37675" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2762" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:predicateObjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2761">
+                    <mxGeometry x="-0.1269" relative="1" as="geometry">
+                        <mxPoint x="83" y="220" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2763" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=8;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2722" target="2760">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="130" y="37170" as="sourcePoint"/>
+                        <mxPoint x="228.76999999999998" y="37725" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2764" value="&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;rr:predicateObjectMap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="2763">
                     <mxGeometry x="-0.1269" relative="1" as="geometry">
                         <mxPoint x="80" y="248" as="offset"/>
                     </mxGeometry>
